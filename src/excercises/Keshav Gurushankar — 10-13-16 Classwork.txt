@@ -1,0 +1,43 @@
+Keshav Gurushankar Per. 8 — 10/13/16
+Pages 146-148 (1-11)
+
+1. 	a.	not
+	b.	field
+	c.	not
+	d.	field
+	e.	variables
+	f.	not
+	
+2.	a.	false	use commas to separate variables
+	b.	false	Where it is accessible
+	c.	false	Commonly used in loops
+	d.	true 	As long as the scope is different
+	e.	false 	it looks at the local variable
+	
+3.	easily changeable
+	More self-documenting
+	extra data type checking
+	
+4.	B
+
+5.	compiled
+
+6.	a.	0
+	b.	5
+	c.	5.0
+	d.	5.0
+	e.	3
+
+7.	a.	105
+	b.	19.0
+	
+8. 	count += (total / pages - 5) * words -1
+
+9. 	There should not be a space in System.out.println("The travel distance is ");
+
+10. ((x%10)>=5) ? (x-(x%10)+1) : (x-(x%10)+1)
+
+11. Double d = Math.sqrt((b*b)-4*a*c);
+	int x1 = (-b+d)/(2a)
+	int x2 = (-b-d)/(2a)
+	
