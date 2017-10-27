@@ -149,7 +149,7 @@ private String[] name = new String[4];
   private int countToDegrees(int count, int total)
   {
 
-    return  (int)( ( ((double)(count)) / ((double)(total)) ) *360.0);
+    return  360 * count / total;
   }
 
 
